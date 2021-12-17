@@ -1,5 +1,5 @@
 # draculathemes_florisboard
-A series of Dracula themes for the FlorisBoard keyboard.
+A series of Dracula inspired themes for the FlorisBoard keyboard.
 
 Dracula palette - https://draculatheme.com/contribute
 
