@@ -1,5 +1,5 @@
-# draculapurple_florisboard
-A Dracula theme for the Florisboard keyboard
+# draculathemes_florisboard
+A series of Dracula themes for the Florisboard keyboard.
 
 Dracula palette - https://draculatheme.com/contribute
 
