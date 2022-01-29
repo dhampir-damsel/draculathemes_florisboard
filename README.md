@@ -1,6 +1,6 @@
 # Dracula for [FlorisBoard](https://github.com/florisboard/florisboard)
 
-> A series dark themes for [FlorisBoard](https://github.com/florisboard/florisboard).
+> A series of dark themes for [FlorisBoard](https://github.com/florisboard/florisboard).
 
 ![Screenshot](https://github.com/dhampir-damsel/draculathemes_florisboard/blob/main/Images/red.jpg)
 
